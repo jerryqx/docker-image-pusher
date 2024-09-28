@@ -1,2 +1,3 @@
 bin20088/nginx:latest
 fatedier/frpc:v0.60.0
+fuzhengwei/xfg-dev-tech-frp-app:1.0
