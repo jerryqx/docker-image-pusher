@@ -1,1 +1,2 @@
 bin20088/nginx:latest
+fatedier/frpc:v0.60.0
